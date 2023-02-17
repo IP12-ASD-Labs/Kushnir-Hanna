@@ -1,2 +1,3 @@
-# Kushnir Hanna
-18 варіант
+## Laboratory work on discipline "Algorithms and Data Structures".
+#### First year, first semester.
+> Kushnir Hanna, IP-12
